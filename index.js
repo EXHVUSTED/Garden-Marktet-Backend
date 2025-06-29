@@ -18,7 +18,7 @@ app.use(express.static('public'));
 app.use(cors({
     origin: '*'
 }));
-//тут что пишу
+
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
