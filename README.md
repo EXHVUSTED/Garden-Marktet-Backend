@@ -1,6 +1,6 @@
 # Данный backend позволит вам выполнить проект
 
-[Ссылка на макет](https://www.figma.com/file/yNWvXvjZC0t8d9yBOpeEPy/Garden?node-id=4743%3A989)
+[Ссылка на макет](https://www.figma.com/design/rjezPxNvRCETVfKGiFAoKo/project-frontend--Copy-?node-id=5251-7386&p=f&t=kNHPDpVQ6jxD6s7x-0)
 
 Это API, которое вам необходимо скачать и запустить у себя локально. Вам не нужно его манять или дорабатывать. Данный проект будет представлять back-end вашего проекта.
 
